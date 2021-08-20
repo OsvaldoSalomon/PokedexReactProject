@@ -1,2 +1,2 @@
 # Pokedex React Project
-A series of React projects from The Modern React Bootcamp
+A Pokedex project that uses React from a course in Udemy
